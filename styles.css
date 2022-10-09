@@ -1,0 +1,67 @@
+* {
+  font-family: Asap, Poppins, sans-serif;
+  background-color: #1a1a1a;
+  color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 600px;
+  height: 750px;
+  margin: auto;
+  margin-top: 5px;
+  padding-top: 150px;
+  padding-left: 200px;
+}
+
+.container h4 {
+  position: absolute;
+  top: 50px;
+  width: 400px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 5px 0;
+  padding: 5px 0;
+  color: azure;
+}
+
+.line {
+  position: relative;
+  top: -40px;
+  left: 25px;
+  width: 350px;
+  height: 4px;
+  background-color: aquamarine;
+}
+
+.grid {
+  width: 400px;
+  height: 600px;
+  background-image: url(./img/background.png);
+  position: relative;
+  font-size: 8rem;
+  font-weight: 600;
+  text-align: center;
+  color: #1a1a1a;
+  text-shadow: 0 0 25px #f1f1f1;
+}
+
+.doodler {
+  width: 60px;
+  height: 85px;
+  background-image: url(./img/doodler-guy.png);
+  position: absolute;
+}
+
+.platform {
+  width: 85px;
+  height: 15px;
+  background-image: url(./img/platforms.png);
+  position: absolute;
+}
+
