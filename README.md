@@ -7,4 +7,5 @@ Doodle-Jump-Basic
 
 # Special Thanks to Ania Kubow and freeCodeCamp.org
 
-![image](https://user-images.githubusercontent.com/74496368/194761600-734cbde0-1b33-4f2f-92dc-907396e94e62.png)
+![image](https://user-images.githubusercontent.com/74496368/194913629-2a929969-73f8-4f1b-a6b4-f7e9fe02c8ae.png)
+![image](https://user-images.githubusercontent.com/74496368/194913455-fef2716c-9340-4617-bbf4-110ae0ce2f25.png)
